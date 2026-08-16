@@ -1,22 +1,12 @@
 {
-  "name": "CASSA - Kassza Számláló",
+  "name": "CASSA",
   "short_name": "CASSA",
-  "description": "Gyors kassza elszámolás forint címletekkel, offline működik.",
+  "description": "CASSA - napi kassza számláló",
   "start_url": "/cassa/",
   "scope": "/cassa/",
   "display": "standalone",
-  "display_override": [
-    "standalone",
-    "minimal-ui"
-  ],
   "background_color": "#F2F0FF",
   "theme_color": "#7C3AED",
-  "orientation": "portrait",
-  "lang": "hu",
-  "categories": [
-    "finance",
-    "productivity"
-  ],
   "icons": [
     {
       "src": "/cassa/icon-192.png",
