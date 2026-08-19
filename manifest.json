@@ -1,9 +1,9 @@
 {
   "name": "CASSA",
   "short_name": "CASSA",
-  "description": "CASSA - napi kassza számláló",
-  "start_url": "/cassa/",
-  "scope": "/cassa/",
+  "description": "CASSA napi kassza szamlalo alkalmazas",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#F2F0FF",
   "theme_color": "#7C3AED",
@@ -15,7 +15,7 @@
       "purpose": "any maskable"
     },
     {
-      "src": "/cassa/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
